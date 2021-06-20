@@ -1,5 +1,2 @@
-# mouseenter
-# mouseleave
-# resize
-# contextmenu
+# mouseenter, etc.
 Created with CodeSandbox
